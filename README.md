@@ -48,7 +48,7 @@ What will be displayed in the browser when previewing the page?
 
 Choose the correct answer
 
-1) 012345
+1) 012345   X
 2) 15
 3) 12345
 4) undefined12345
